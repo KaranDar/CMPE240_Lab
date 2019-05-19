@@ -1,4 +1,4 @@
-# CMPE 240 Labs by Karan Daryani
+# SJSU CMPE 240 
 
 ## Installing
 This project is designed to run on a LPC 1769 with LCD Display connected via SPI Protocol
